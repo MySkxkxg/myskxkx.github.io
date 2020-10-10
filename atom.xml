@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://skxkxg.github.io</id>
+    <id>https://myskxkxg.github.io</id>
     <title>Gridea</title>
-    <updated>2020-10-07T12:40:41.727Z</updated>
+    <updated>2020-10-10T12:27:16.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://skxkxg.github.io"/>
-    <link rel="self" href="https://skxkxg.github.io/atom.xml"/>
+    <link rel="alternate" href="https://myskxkxg.github.io"/>
+    <link rel="self" href="https://myskxkxg.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://skxkxg.github.io/images/avatar.png</logo>
-    <icon>https://skxkxg.github.io/favicon.ico</icon>
+    <logo>https://myskxkxg.github.io/images/avatar.png</logo>
+    <icon>https://myskxkxg.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://skxkxg.github.io/post/hello-gridea/</id>
-        <link href="https://skxkxg.github.io/post/hello-gridea/">
+        <id>https://myskxkxg.github.io/post/hello-gridea/</id>
+        <link href="https://myskxkxg.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
